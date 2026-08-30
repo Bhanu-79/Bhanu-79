@@ -1,10 +1,10 @@
 ## Hi there 👋I'm Bhanu Kiran
 
-Embedded Systems · IoT · PCB Design 🎯
+## Embedded Systems · IoT · PCB Design 🎯
 
 
 
- 🚀 About Me
+ ##🚀 About Me
 
 🎓 Electronics & Communication Engineering Graduate
 
