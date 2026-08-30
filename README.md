@@ -19,6 +19,10 @@ PCB Design
 Edge AI 
 Tiny Ml
 
+## Tech Stack
+
+![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Python&reverseBackground=true)
+
 
 <!--
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
