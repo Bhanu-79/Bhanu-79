@@ -1,5 +1,7 @@
 ## Hi there 👋I'm Bhanu Kiran
 
+Embedded Systems · IoT · PCB Design 🎯
+
 <!--
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
