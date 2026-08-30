@@ -4,7 +4,7 @@
 
 
 
- ##🚀 About Me
+ 🚀 About Me
 
 🎓 Electronics & Communication Engineering Graduate
 
