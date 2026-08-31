@@ -28,7 +28,7 @@ Tiny Ml
 ## Embedded Platforms
 
 ![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Arduino&reverseBackground=true)
-![](https://img.shields.io/badge/.-ESP%2032-black.svg)
+![](https://img.shields.io/.-ESP%2032-black.svg)
 <!--
 
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
