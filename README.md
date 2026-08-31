@@ -21,7 +21,8 @@ Tiny Ml
 
 ## Languages
 
-![Social Icons](https://www.readmecodegen.com/api/social-icon?name=C&reverseBackground=true)![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Python&reverseBackground=true)
+![Social Icons](https://www.readmecodegen.com/api/social-icon?name=C&reverseBackground=true)
+![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Python&reverseBackground=true)
 
 
 
