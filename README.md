@@ -93,7 +93,6 @@ Tiny Ml
   <li>📨 MQTT</li>
   <li>🔗 HTTP / REST API</li>
 </ul>
-<!--
 ## Projects 
 
 
