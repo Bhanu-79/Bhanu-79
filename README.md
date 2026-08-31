@@ -94,7 +94,7 @@ Tiny Ml
   <li>🔗 HTTP / REST API</li>
 </ul>
 <!--
-<h2 align="left">›&nbsp;&nbsp;Featured Projects</h2>
+## Projects 
 
 <table width="100%" cellspacing="0" cellpadding="14" border="1">
   <tr>
