@@ -122,6 +122,21 @@ Tiny Ml
         Health Sensors
       </td>
     </tr>
+<tr>
+      <td>
+        <a href="#">
+          <b>Smart<br>Ambulance<br>System</b>
+        </a>
+      </td>
+      <td>
+        RF-based traffic signal override + on-board health vitals monitoring
+      </td>
+      <td>
+        Arduino,<br>
+        RF 433MHz,<br>
+        Health Sensors
+      </td>
+    </tr>
 
    
       
