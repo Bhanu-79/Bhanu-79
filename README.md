@@ -124,8 +124,7 @@ Tiny Ml
     </tr>
 
    
-      </td>
-    </tr>
+      
   </tbody>
 </table>
 <!--
