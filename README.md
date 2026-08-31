@@ -162,7 +162,7 @@ Tiny Ml
     </tr>
   </tbody>
 </table>
-</td>
+
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
