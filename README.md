@@ -141,32 +141,20 @@ Tiny Ml
    <tr>
       <td>
         <a href="#">
-          <b>Smart<br>Ambulance<br>System</b>
+          <b>IOT<br>Assisted<br>Solar<br>System</b>
         </a>
       </td>
       <td>
-        RF-based traffic signal override + on-board health vitals monitoring
+        Cloud dashboard for live solar inverter data monitoring 
       </td>
       <td>
-        Arduino,<br>
-        RF 433MHz,<br>
-        Health Sensors
+        MQTT,Wifi<br>
+        inverter,<br>
+        UART
       </td>
     </tr>
 
-  <tr>
-      <td>
-        <a href="#">
-          <b>Smart<br>Ambulance<br>System</b>
-        </a>
-      </td>
-      <td>
-        RF-based traffic signal override + on-board health vitals monitoring
-      </td>
-      <td>
-        Arduino,<br>
-        RF 433MHz,<br>
-        Health Sensors
+  <
       </td>
     </tr>    
   </tbody>
