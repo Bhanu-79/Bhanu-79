@@ -95,87 +95,66 @@ Tiny Ml
 </ul>
 
 ## Projects
-<h2 align="left">›&nbsp;&nbsp;Featured Projects</h2>
+<h2 align="left">&gt; Featured Projects</h2>
 
-<table width="100%" cellspacing="0" cellpadding="14" border="1">
-  <tr>
-    <th width="33%">Project</th>
-    <th width="34%">What It<br>Does</th>
-    <th width="33%">Key Tech</th>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>What It Does</th>
+      <th>Key Tech</th>
+    </tr>
+  </thead>
 
-  <tr>
-    <td>
-      <a href="#">
-        <b>Smart<br>Ambulance<br>System</b>
-      </a>
-    </td>
+  <tbody>
+    <tr>
+      <td>
+        <a href="#">
+          <b>Smart<br>Ambulance<br>System</b>
+        </a>
+      </td>
+      <td>
+        RF-based traffic signal override + on-board health vitals monitoring
+      </td>
+      <td>
+        Arduino,<br>
+        RF 433MHz,<br>
+        Health Sensors
+      </td>
+    </tr>
 
-    <td>
-      RF-based<br>
-      traffic signal<br>
-      override +<br>
-      on-board<br>
-      health vitals<br>
-      monitoring
-    </td>
+    <tr>
+      <td>
+        <a href="#">
+          <b>Smart<br>Safety<br>Helmet for<br>Miners</b>
+        </a>
+      </td>
+      <td>
+        Real-time underground hazard monitoring &amp; comms via LoRa gateway
+      </td>
+      <td>
+        ESP32,<br>
+        LoRa,<br>
+        Gas/Temp Sensors
+      </td>
+    </tr>
 
-    <td>
-      Arduino,<br>
-      RF<br>
-      433MHz,<br>
-      Health<br>
-      Sensors
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="#">
-        <b>Smart<br>Safety<br>Helmet for<br>Miners</b>
-      </a>
-    </td>
-
-    <td>
-      Real-time<br>
-      underground<br>
-      hazard<br>
-      monitoring &amp;<br>
-      comms via<br>
-      LoRa<br>
-      gateway
-    </td>
-
-    <td>
-      ESP32,<br>
-      LoRa,<br>
-      Gas/Temp<br>
-      Sensors
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="#">
-        <b>IoT<br>Assisted<br>Solar<br>System</b>
-      </a>
-    </td>
-
-    <td>
-      Cloud<br>
-      dashboard<br>
-      for live solar<br>
-      inverter data<br>
-      monitoring
-    </td>
-
-    <td>
-      MQTT,<br>
-      Wi-Fi,<br>
-      Inverter<br>
-      UART
-    </td>
-  </tr>
+    <tr>
+      <td>
+        <a href="#">
+          <b>IoT<br>Assisted<br>Solar<br>System</b>
+        </a>
+      </td>
+      <td>
+        Cloud dashboard for live solar inverter data monitoring
+      </td>
+      <td>
+        MQTT,<br>
+        Wi-Fi,<br>
+        Inverter UART
+      </td>
+    </tr>
+  </tbody>
 </table>
 <!--
 
