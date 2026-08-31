@@ -25,9 +25,7 @@ Tiny Ml
 ![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Python&reverseBackground=true)
 
 
-## Embedded Platforms
 
-![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Arduino&reverseBackground=true)
 <h1 align="center">⚙️ Embedded Platforms</h1>
 
 <hr>
