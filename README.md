@@ -122,7 +122,47 @@ Tiny Ml
         Health Sensors
       </td>
     </tr>
+<tr>
 
+<td>
+
+<a href="#">
+
+b>Smart<br>Safety<br>Helmet for<br>Miners</
+
+b>
+
+</a>
+
+</td>
+
+Real-time<br>
+
+underground<br>
+
+hazard<br>
+
+monitoring &amp;<br>
+
+comms via<br>
+
+LoRa<br>
+
+gateway
+
+</td>
+
+ESP32,<br>
+
+LoRa,<br>
+
+Gas/Temp<br>
+
+Sensors
+
+</td>
+
+</tr>
    
       
   </tbody>
