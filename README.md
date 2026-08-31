@@ -23,6 +23,23 @@ Tiny Ml
 
 ![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Python&reverseBackground=true)
 
+<!-- Python -->
+![Python](https://shields.io)
+
+<!-- Embedded C (Using the 'C' logo) -->
+![Embedded C](https://shields.io)
+
+<!-- ESP32 -->
+![ESP32](https://shields.io)
+
+<!-- Arduino -->
+![Arduino](https://shields.io)
+
+<!-- KiCad -->
+![KiCad](https://shields.io)
+
+<!-- PlatformIO -->
+![PlatformIO](https://shields.io)
 
 <!--
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
