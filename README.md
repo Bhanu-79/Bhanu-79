@@ -95,64 +95,6 @@ Tiny Ml
 </ul>
 <!--
 
-<h2 align="left">💻 Projects</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What It Does</th>
-      <th>Key Tech</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-        <a href="#">
-          <b>Smart Ambulance System</b>
-        </a>
-      </td>
-
-      <td>
-        RF-based traffic signal override + on-board health vitals monitoring
-      </td>
-
-      <td>
-        Arduino,<br>
-        RF 433MHz,<br>
-        Health Sensors
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <a href="#">
-          <b>Smart Safety Helmet for Miners</b>
-        </a>
-      </td>
-
-      <td>
-        Real-time underground hazard monitoring &amp; communication via LoRa gateway
-      </td>
-
-      <td>
-        ESP32,<br>
-        LoRa,<br>
-        Gas/Temp Sensors
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <a href="#">
-          <b>IoT Assisted Solar System</b>
-        </a>
-      </td>
-
-      <td>
-        Cloud dashboard for live solar inverter data monitoring
-      </td>
 
      
 
