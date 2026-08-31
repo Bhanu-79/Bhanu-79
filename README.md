@@ -95,6 +95,88 @@ Tiny Ml
 </ul>
 
 ## Projects
+<h2 align="left">›&nbsp;&nbsp;Featured Projects</h2>
+
+<table width="100%" cellspacing="0" cellpadding="14" border="1">
+  <tr>
+    <th width="33%">Project</th>
+    <th width="34%">What It<br>Does</th>
+    <th width="33%">Key Tech</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="#">
+        <b>Smart<br>Ambulance<br>System</b>
+      </a>
+    </td>
+
+    <td>
+      RF-based<br>
+      traffic signal<br>
+      override +<br>
+      on-board<br>
+      health vitals<br>
+      monitoring
+    </td>
+
+    <td>
+      Arduino,<br>
+      RF<br>
+      433MHz,<br>
+      Health<br>
+      Sensors
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="#">
+        <b>Smart<br>Safety<br>Helmet for<br>Miners</b>
+      </a>
+    </td>
+
+    <td>
+      Real-time<br>
+      underground<br>
+      hazard<br>
+      monitoring &amp;<br>
+      comms via<br>
+      LoRa<br>
+      gateway
+    </td>
+
+    <td>
+      ESP32,<br>
+      LoRa,<br>
+      Gas/Temp<br>
+      Sensors
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="#">
+        <b>IoT<br>Assisted<br>Solar<br>System</b>
+      </a>
+    </td>
+
+    <td>
+      Cloud<br>
+      dashboard<br>
+      for live solar<br>
+      inverter data<br>
+      monitoring
+    </td>
+
+    <td>
+      MQTT,<br>
+      Wi-Fi,<br>
+      Inverter<br>
+      UART
+    </td>
+  </tr>
+</table>
 <!--
 
 
