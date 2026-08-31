@@ -96,16 +96,7 @@ Tiny Ml
 <!--
 
 
-## Featured Projects
 
-Here's how I've organized my README:
-
-- [Project Overview](#project-details)
-- [Features I Built](#features)
-- [How to Install](#installation)
-- [Usage Examples](#usageexamples)
-- [How to Contribute](#contributing)
-- [License Information](#license)<!--
 
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
