@@ -25,7 +25,9 @@ Tiny Ml
 ![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Python&reverseBackground=true)
 
 
+## Embedded Platforms
 
+![Social Icons](https://www.readmecodegen.com/api/social-icon?name=Arduino&reverseBackground=true)
 <!--
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
