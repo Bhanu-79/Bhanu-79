@@ -102,7 +102,7 @@ Tiny Ml
 <li>🌍 GPS</li>
 <li>📨 MQTT</li>
 <li>🔗 HTTP / REST API</li>
-</ul>
+
 
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
