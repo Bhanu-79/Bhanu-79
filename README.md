@@ -154,14 +154,7 @@ Tiny Ml
         Cloud dashboard for live solar inverter data monitoring
       </td>
 
-      <td>
-        MQTT,<br>
-        Wi-Fi,<br>
-        Inverter UART
-      </td>
-    </tr>
-  </tbody>
-</table>
+     
 
 **Bhanu-79/Bhanu-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
