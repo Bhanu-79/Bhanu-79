@@ -123,35 +123,7 @@ Tiny Ml
       </td>
     </tr>
 
-    <tr>
-      <td>
-        <a href="#">
-          <b>Smart<br>Safety<br>Helmet for<br>Miners</b>
-        </a>
-      </td>
-      <td>
-        Real-time underground hazard monitoring &amp; comms via LoRa gateway
-      </td>
-      <td>
-        ESP32,<br>
-        LoRa,<br>
-        Gas/Temp Sensors
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <a href="#">
-          <b>IoT<br>Assisted<br>Solar<br>System</b>
-        </a>
-      </td>
-      <td>
-        Cloud dashboard for live solar inverter data monitoring
-      </td>
-      <td>
-        MQTT,<br>
-        Wi-Fi,<br>
-        Inverter UART
+   
       </td>
     </tr>
   </tbody>
