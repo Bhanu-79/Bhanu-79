@@ -125,16 +125,16 @@ Tiny Ml
 <tr>
       <td>
         <a href="#">
-          <b>Smart<br>Ambulance<br>System</b>
+          <b>Smart<br>Safety<br>Helmet for<br>miners</b>
         </a>
       </td>
       <td>
-        RF-based traffic signal override + on-board health vitals monitoring
+        Real-time underground hazard monitoring & comms via LoRa gateway
       </td>
       <td>
-        Arduino,<br>
-        RF 433MHz,<br>
-        Health Sensors
+        ESP32,LoRa<br>
+        Gas/Temp,<br>
+         Sensors
       </td>
     </tr>
 
